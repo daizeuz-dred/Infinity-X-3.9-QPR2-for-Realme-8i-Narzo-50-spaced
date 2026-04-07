@@ -1,3 +1,6 @@
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/429d2d5e-fbe3-4be2-bdb0-9e37050daeb8" />
+
+
 # Infinity-X-3.9-QPR2-for-Realme-8i-Narzo-50-spaced
 
 ## 🛠️ System & Performance
@@ -33,5 +36,5 @@
 * **Bug Fixes:** Corrected permission errors for `opluserserve1` and resolved "Permission Denied" issues for kernel performance nodes.
 
 ## 🚀 HUGE THANKS TO @HELLINFIX FOR THE TREES AND ALL THE HELP 🫡
-## 🤝 Thanks to @crss5G for teaching me how to implement OTA updates
+## 🤝 Thanks to @hxfuxyy for teaching me how to implement OTA updates
 ## 🎵 Thanks to @ViaanLarryROMS for the assistance in adding Sony Dolby
